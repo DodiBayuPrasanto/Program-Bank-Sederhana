@@ -1,0 +1,13 @@
+123
+Isan
+Pwt
+1000000
+Transfer keluar ke nomor rekening 456 sebesar 1000000
+
+456
+Deysalsa
+Pwt
+6000000
+Transfer masuk dari nomor rekening 123 sebesar 1000000
+Penambahan saldo sebesar 1000000
+
